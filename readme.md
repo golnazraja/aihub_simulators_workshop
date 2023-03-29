@@ -14,6 +14,7 @@ git clone https://github.com/golnazraja/aihub_simulators_workshop.git
 And switch to the master branch
 
 ```bash
+cd aihub_simulators_workshop/
 git checkout master
 ```
 Please prepare a virtual environment for this workshop to avoid conflict.
