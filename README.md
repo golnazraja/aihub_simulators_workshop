@@ -7,7 +7,7 @@ Please go to [master](https://github.com/golnazraja/aihub_simulators_workshop/tr
 
 Please prepare a virtual environment for this workshop to avoid conflict.
 
-**Please note that your python version should be 3.7**
+**Please note that your python version should be 3.7 or 3.8**
 
 Install the python requirements.
 
