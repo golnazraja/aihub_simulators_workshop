@@ -38,9 +38,8 @@ And Done!
 Now we can run the codes together during the workshop.
 Note: During the session you have to connect to our local server through WiFi to be in the network of our CARLA server.
 
-Codes during the workshop:
+Running codes during the workshop:
 
-Introduction to CARLA:
 ```bash
 python intro.py
 ```
