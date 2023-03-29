@@ -3,8 +3,7 @@
 
 In this session we will introduce CARLA briefly.
 
-Note: CARLA can be used on windows and ubuntu. 
-
+Note: Required OS for this session is ubuntu. If you are on windows, you can follow the instructions from presentor's screen.
 Please clone the repo
 
 ```bash
