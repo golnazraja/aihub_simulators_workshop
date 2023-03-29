@@ -20,7 +20,7 @@ git checkout master
 Please prepare a virtual environment for this workshop to avoid conflict.
 Install **Python 3.7** (other python versions can cause conflict) 
 
-you can try virtual environment in **ubuntu** as bellow
+you can try virtual environment on ubuntu as bellow
 (Conda and miniconda environments will also work)
 
 ```bash
