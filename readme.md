@@ -3,7 +3,8 @@
 
 In this session we will introduce CARLA briefly.
 
-Note: Required OS for this session is **ubuntu**. If you are on windows, you can follow the instructions from presentor's screen.
+Note: Required OS for this session is **ubuntu**. If you are on windows, you can follow the instruction and content from the presentor's screen.
+
 Please clone the repo
 
 ```bash
@@ -19,7 +20,7 @@ git checkout master
 Please prepare a virtual environment for this workshop to avoid conflict.
 Install **Python 3.7** (other python versions can cause conflict) 
 
-you can try virtual environment in **ubuntu** as bellow
+you can try virtual environment on ubuntu as bellow
 (Conda and miniconda environments will also work)
 
 ```bash
@@ -38,9 +39,8 @@ And Done!
 Now we can run the codes together during the workshop.
 Note: During the session you have to connect to our local server through WiFi to be in the network of our CARLA server.
 
-Codes during the workshop:
+Running codes during the workshop:
 
-Introduction to CARLA:
 ```bash
 python intro.py
 ```
