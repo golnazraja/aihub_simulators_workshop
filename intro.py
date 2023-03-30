@@ -31,13 +31,13 @@ def main():
 
         transform = random.choice(world.get_map().get_spawn_points())
         #transform = carla.Transform(carla.Location(x=-43.5, y = 110, z = 0.5), carla.Rotation(yaw=-90))
-        vehicle = world.spawn_actor(bp, transform)
+        vehicle = world.try_spawn_actor(bp, transform)
 
         actor_list.append(vehicle)
         print('created %s' % vehicle.type_id)
 
 
-        ############### controlling vehicle######################
+        ############### controlling vehicle ######################
         vehicle.set_autopilot(True)
         # try:
         #     vehicle.apply_control(carla.VehicleControl( throttle = 0.5, steer = 0, brake = 0))
