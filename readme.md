@@ -5,7 +5,6 @@ In this session we will introduce CARLA briefly.
 
 Note: Required OS for this session is **ubuntu**. If you are on windows, you can follow the instruction and content from the presentor's screen. 
 
-**Note**: we verified the preparation process (provided on the GitHub repo) only for ubuntu systems. If you are able to replicate the same preparation on windows there will be no problem with that.
 
 Please clone the repo
 
