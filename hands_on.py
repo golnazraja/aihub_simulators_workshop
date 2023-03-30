@@ -1232,26 +1232,7 @@ def game_loop(args):
         hud = HUD(args.width, args.height)
         world = World(sim_world, hud, args)
         controller = KeyboardControl(world, args.autopilot)
-
-        # print("-------------------khiaaaaaaaaaar--------------------")
-        # rgb_camera_bp = None
-        # rgb_camera_bp =  sim_world.get_blueprint_library().find('sensor.camera.rgb')
-
-        # print("-------------------khiaaaaaaaaaar--------------------")
-        # rgb_camera_bp.set_attribute("image_size_x", str(120))
-        # rgb_camera_bp.set_attribute("image_size_y", str(120))
-        # rgb_camera_bp.set_attribute("fov", str(90))
-        # cam_location = carla.Location(x = 2.4, y = 0, z = 0.5)
-        # cam_rotation = carla.Rotation(0, 0,0)
-        # cam_transform = carla.Transform(cam_location,cam_rotation)
-        # #cam_transform = ego_vehicle.get_transform()
-        # rgb_camera = sim_world.try_spawn_actor( rgb_camera_bp, cam_transform, attach_to = world.player, attachment_type = carla.AttachmentType.Rigid ) 
-        # #instance_camera.listen(lambda image: image.save_to_disk('/home/golnaz/Desktop/CBF_GAN/CBF_CARLA/dataset/%.6d.jpg' % image.frame))
         
-        # rgb_camera.listen(lambda image:  image.save_to_disk('/home/golnaz/Desktop/hands_on/%.6d.jpg' % image.frame))
-
-   
-
         if args.sync:
             sim_world.tick()
         else:
