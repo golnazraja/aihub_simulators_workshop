@@ -3,7 +3,7 @@
 
 In this session we will introduce CARLA briefly.
 
-Note: Required OS for this session is **ubuntu**. If you are on windows, you can follow the instruction and content from the presentor's screen. 
+Note: Required OS for this session is **ubuntu**. If you are on windows, you can follow the instruction and content from the presentor's screen.  (you can also convert commands yourself to be applicable to windows if you wish.)
 
 
 Please clone the repo
