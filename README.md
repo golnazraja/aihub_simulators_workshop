@@ -42,7 +42,7 @@ Note: During the session you have to connect to our local server through WiFi to
 
 Running codes during the workshop:
 
-(change the ip of the server in the intro.py script)
+(update the IP of the server in the intro.py script)
 ```bash
 python intro.py
 ```
