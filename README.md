@@ -1,4 +1,4 @@
-# AI hub Simulation Workshop
+# AI hub Simulation Workshop , Tampere
 # Welcome to AI Hub Workshop Simulation hands-on session
 
 In this session we will introduce CARLA briefly.
