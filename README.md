@@ -1,7 +1,7 @@
 # AI hub Simulation Workshop
 # Welcome to AI Hub Workshop Simulation hands-on session
 
-In this session we will introduce CARLA briefly.
+In this session we will introduce CARLA briefly. So pay attention please :)
 
 Note: Required OS for this session is **ubuntu**. If you are on windows, you can follow the instruction and content from the presentor's screen.
 (you can also convert commands yourself to be applicable to windows if you wish.)
